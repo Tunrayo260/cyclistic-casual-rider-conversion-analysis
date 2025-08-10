@@ -1,7 +1,7 @@
 # cyclistic-casual-rider-conversion-analysis
 Analyzing Cyclistic bike-share data to understand rider behavior and drive casual rider to annual member conversion.
 
-## 1. Project Overview
+## 1. Project Overview 
 
 This case study, part of the Google Data Analytics Professional Certificate, focuses on **Cyclistic**, a fictional bike-share company in Chicago. The core business problem is to **maximize the number of annual memberships** by understanding how casual riders and annual members use Cyclistic bikes differently.
 
